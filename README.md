@@ -14,15 +14,13 @@ Whether you're a complete beginner or looking to refresh your web development kn
 
 ## 📝 How to Participate
 
-1. **Create Accounts**: 
+1. **Create Accounts**:
    - [Create a GitHub account](https://github.com) if you don't have one already.
    - Join the Dev Wizards organization on both GitHub and Discord.
-   
-2. **Register**: 
+2. **Register**:
    - Fill out the registration form [here](https://forms.gle/RXVvps74qXbSY5bB9).
-   
-3. **Complete Challenges**: 
-   - Follow the provided roadmap.
+3. **Complete Challenges**:
+   - Follow the provided [roadmap](Roadmap/Day_1.md).
    - Complete daily tasks and an end-of-event quiz.
    - Use any resources (YouTube, Google, AI tools, etc.) to help you learn and complete the challenges.
 
