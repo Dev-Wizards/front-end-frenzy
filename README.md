@@ -1,3 +1,9 @@
+<section style="text-align:center" align="center">
+<img src="./assets/event-banner.png" width="100%">
+</section>
+
+---
+
 # 🎉 Front-End Frenzy: Web Dev Basics | DIY 🎉
 
 Welcome to the **Front-End Frenzy** event! This is your chance to kickstart your journey into web development, or if you're already familiar with the basics, to sharpen your skills further. Let's dive in!
@@ -16,11 +22,11 @@ Whether you're a complete beginner or looking to refresh your web development kn
 
 1. **Create Accounts**:
    - [Create a GitHub account](https://github.com) if you don't have one already.
-   - Join the Dev Wizards organization on both GitHub and Discord.
+   - Join the Dev Wizards organization on both [GitHub](https://github.com/Dev-Wizards) and [Discord](https://discord.gg/mP8WuPVR2N).
 2. **Register**:
    - Fill out the registration form [here](https://forms.gle/RXVvps74qXbSY5bB9).
 3. **Complete Challenges**:
-   - Follow the provided [roadmap](Roadmap/Day_1.md).
+   - Follow the provided [roadmap](Roadmap/Day_01.md).
    - Complete daily tasks and an end-of-event quiz.
    - Use any resources (YouTube, Google, AI tools, etc.) to help you learn and complete the challenges.
 
