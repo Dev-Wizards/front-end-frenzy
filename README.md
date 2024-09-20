@@ -4,13 +4,13 @@
 
 ---
 
-# 📘 Front-End Frenzy: Web Dev Basics | DIY
+# 📘 Front-End Frenzy: Web Dev Basics - DIY
 
 ## 1. Introduction
 
 ### Overview of the Event
 
-Welcome to **Front-End Frenzy: Web Dev Basics | DIY**! This event is designed to kickstart your journey into web development. Over the next 30 days, you'll learn HTML, CSS, and JavaScript through daily challenges, building projects that you can showcase in your portfolio.
+Welcome to **Front-End Frenzy: Web Dev Basics - DIY**! This event is designed to kickstart your journey into web development. Over the next 30 days, you'll learn HTML, CSS, and JavaScript through daily challenges, building projects that you can showcase in your portfolio.
 
 ### What You'll Achieve
 
@@ -101,6 +101,7 @@ Submit your completed milestone projects via GitHub by pushing your code to your
 
 For detailed instructions, take a look at the [HowToSubmit](/HowToSubmit.md) file.
 
+For final project submission guidelines, refer to the [PROJECT_SUBMISSION.md](./PROJECT_SUBMISSION.md) file.
 ### Evaluation Criteria
 
 Milestone projects will be evaluated based on:
