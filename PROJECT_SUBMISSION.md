@@ -53,7 +53,7 @@ This is your chance to showcase what you've learned! You'll create a project usi
    - **Important:** Only those who complete the form will be eligible for swags.
 
 7. **Deadline:**
-   - Submit your project by **2nd October, 6 PM IST**.
+   - Submit your project by **8 October, 6 PM IST**.
    - Late submissions won’t be considered for evaluation.
 
 ## Evaluation Criteria
