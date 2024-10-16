@@ -57,7 +57,7 @@ A collection of awesome projects created during the **Front-end Frenzy** event. 
 <img src='assets/TTT.png?raw=true' alt='TTT' /><br/>
 [Repo](https://github.com/Itzmuneerbhat/FeF-Tic-Tac-Toe.git) - [Try it out](https://itzmuneerbhat.github.io/FeF-Tic-Tac-Toe/) - by @Itzmuneerbhat
 
-## Final Project:
+## BMI Calculator:
 
 <img src='assets/BMICalculator.png?raw=true' alt='BMICalculator' /><br/>
 [Repo](https://github.com/lonemumtaz/fef-Final_project.git) - [Try it out](https://lonemumtaz.github.io/fef-Final_project/) - by @lonemumtaz
