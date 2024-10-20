@@ -6,6 +6,9 @@
 
 # 📘 Front-End Frenzy: Web Dev Basics - DIY
 
+- [Project Gallery](PROJECTS.md)
+- [Event Images](EVENT_IMAGES.md)
+
 ## 1. Introduction
 
 ### Overview of the Event
